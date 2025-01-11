@@ -1,0 +1,36 @@
+=================== LTTBETFurtherDownsampler ===================
+LTTBETFurtherDownsampler effective area of all iterations [12003.894  12424.1995 12554.0555 12554.0555 12554.0555 12554.0555
+ 12554.0555 12554.0555]
+
+=================== LTTBETFurtherDownsampler ===================
+LTTBETFurtherDownsampler effective area of all iterations [9121.724  9607.6335 9764.53   9793.398  9793.398  9793.398  9793.398
+ 9793.398 ]
+
+=================== LTTBETFurtherDownsampler ===================
+LTTBETFurtherDownsampler effective area of all iterations [6735.8035 6918.9985 7095.1385 7115.267  7115.267  7115.267  7115.267
+ 7115.267 ]
+
+=================== LTTBETFurtherDownsampler ===================
+LTTBETFurtherDownsampler effective area of all iterations [5172.0765 5312.9105 5561.638  5561.638  5561.638  5561.638  5561.638
+ 5561.638 ]
+
+=================== LTTBETFurtherDownsampler ===================
+LTTBETFurtherDownsampler effective area of all iterations [4168.9975 4275.078  4426.27   4426.27   4426.27   4426.27   4426.27
+ 4426.27  ]
+
+=================== LTTBETFurtherDownsampler ===================
+LTTBETFurtherDownsampler effective area of all iterations [3419.6765 3509.6895 3570.6385 3570.6385 3570.6385 3570.6385 3570.6385
+ 3570.6385]
+
+=================== LTTBETFurtherDownsampler ===================
+LTTBETFurtherDownsampler effective area of all iterations [2753.071  2814.6235 2830.7375 2831.3665 2831.3665 2831.3665 2831.3665
+ 2831.3665]
+
+=================== LTTBETFurtherDownsampler ===================
+LTTBETFurtherDownsampler effective area of all iterations [2158.4305 2184.1675 2192.2215 2193.2895 2193.2895 2193.2895 2193.2895
+ 2193.2895]
+
+=================== LTTBETFurtherDownsampler ===================
+LTTBETFurtherDownsampler effective area of all iterations [1666.1765 1696.1885 1696.654  1700.2315 1701.4715 1701.729  1701.729
+ 1701.729 ]
+
