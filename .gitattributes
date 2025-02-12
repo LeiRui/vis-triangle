@@ -1,0 +1,4 @@
+# Convert to LF line endings on checkout.
+*.sh text eol=lf
+*.txt text eol=lf
+*.properties text eol=lf
